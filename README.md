@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm jotting down notes on my studies as if I were maintaining a personal wiki to track my progress.
+- I'm jotting down notes on my studies as if I were maintaining a personal wiki to track my progress, click [here](https://github.com/SimoneNegro/UPO) if you are interested.
+- For now, I'm a university student at UPO.
 <!--
 **SimoneNegro/SimoneNegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
