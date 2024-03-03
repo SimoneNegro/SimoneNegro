@@ -1,4 +1,4 @@
-![](https://api.visitorbadge.io/api/VisitorHit?user=SimoneNegro&repo=github-visitors-badge&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=SimoneNegro&repo=github-visitors-badge&countColor=%036bfc)
 ### Hi there 👋
 
 - I'm jotting down notes on my studies as if I were maintaining a personal wiki to track my progress, click [here](https://github.com/SimoneNegro/UPO) if you are interested.
