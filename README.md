@@ -1,8 +1,15 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=SimoneNegro&repo=github-visitors-badge&countColor=%237B1E7A)
 ### Hi there 👋
 
-- I'm jotting down notes on my studies as if I were maintaining a personal wiki to track my progress, click [here](https://github.com/SimoneNegro/UPO) if you are interested.
-- For now, I'm a university student at UPO.
+##### Currently studying at UPO.
+
+- 🔭 I'm currently working on my personal project, which is a web app.
+- 🌱 I’m currently learning C#.
+- 👯 I’m looking to collaborate on my personal project.
+- 📫 How to reach me:
+
+![BeastOfShadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimoneNegro&show_icons=true&theme=radical)
+
 <!--
 **SimoneNegro/SimoneNegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
