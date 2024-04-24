@@ -12,6 +12,7 @@ Currently studying at UPO.
 
 - C
 - Java
+- JavaScript
 - Python
 - C++
 
