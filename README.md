@@ -1,7 +1,7 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=SimoneNegro&repo=github-visitors-badge&countColor=%237B1E7A)
 # Hi there 👋
 
-## Currently studying at UPO.
+Currently studying at UPO.
 
 - 🔭 I'm currently working on my personal project, which is a web app.
 - 🌱 I’m currently learning C#.
