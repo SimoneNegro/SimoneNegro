@@ -6,7 +6,7 @@
 - 🔭 I'm currently working on my personal project, which is a web app.
 - 🌱 I’m currently learning C#.
 - 👯 I’m looking to collaborate on my personal project.
-- 📫 How to reach me:
+- 📫 How to reach me: ![mail](mailto:simone.negro,2002@gmail.com)
 
 ![BeastOfShadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimoneNegro&show_icons=true&theme=radical)
 
