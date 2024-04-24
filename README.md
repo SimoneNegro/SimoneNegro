@@ -10,6 +10,11 @@ Currently studying at UPO.
 
 ## Languages
 
+- C
+- Java
+- Python
+- C++
+
 ![BeastOfShadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimoneNegro&show_icons=true&theme=radical)
 
 <!--
