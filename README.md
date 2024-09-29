@@ -4,13 +4,13 @@
 Currently studying at UPO.
 
 - 🔭 I'm currently working on my personal project, which is a web app.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning server stuff.
 - 👯 I’m looking to collaborate on my personal project.
 - 📫 How to reach me: <a href="mailto:simone.negro.2002@gmail.com" target="_blank">simone.negro.2002@gmail.com</a>
 
 ## Languages
 
-- C
+- C (advanced)
 - Java
 - JavaScript
 - Python
